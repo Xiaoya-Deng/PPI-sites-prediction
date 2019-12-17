@@ -1,4 +1,4 @@
-#Prediction of protein-protein interaction sites using convolutional neural network and improved data sets.
+Prediction of protein-protein interaction sites using convolutional neural network and improved data sets.
 
 
 Authors
@@ -15,19 +15,27 @@ Usage
 -----
 
 DEPENDENCIES***
+
 Our tools depends upon the following:
 
 -Python 3.5
+
 -Tensorflow 1.10.0
+
 -Python modules: Numpy, Matplotlib, re, sys, os, random, __main__, sklearn
+
 -Tools: PSAIA, PSI-BLAST
 
 Please install these dependencies before using our tools. 
 
 USAGE***
+
 1. Feature Extraction:
+
 You can extract the features described in our paper. 
 	
 2. The training and testing is pretty simple. Just follow the following steps:
+
 1) Put feature files of each complex in a fold. 
+
 2) Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
