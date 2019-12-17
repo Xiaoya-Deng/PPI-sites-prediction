@@ -16,10 +16,12 @@ Usage
 
 DEPENDENCIES***
 Our tools depends upon the following:
+
 -Python 3.5
 -Tensorflow 1.10.0
 -Python modules: Numpy, Matplotlib, re, sys, os, random, __main__, sklearn
 -Tools: PSAIA, PSI-BLAST
+
 Please install these dependencies before using our tools. 
 
 USAGE***
