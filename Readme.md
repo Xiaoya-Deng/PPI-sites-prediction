@@ -3,7 +3,8 @@ Prediction of protein-protein interaction sites using convolutional neural netwo
 
 Authors
 -------
-Zengyan Xie, Xiaoya Deng, Kunxian shu
+Zengyan Xie, Xiaoya Deng, Kunxian shu.
+
 Chongqing Key Laboratory of Big Data for Bio Intelligence, Chongqing University of Posts and Telecommunications, Chongqing 400065, China;
 
 Description
