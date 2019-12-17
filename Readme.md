@@ -36,6 +36,6 @@ You can extract the features described in our paper.
 	
 2. The training and testing is pretty simple. Just follow the following steps:
 
-1) Put feature files of each complex in a fold. 
+a. Put feature files of each complex in a fold. 
 
-2) Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
+b. Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
