@@ -22,7 +22,7 @@ Our tools depends upon the following:
 
 -Tensorflow 1.10.0
 
--Python modules: Numpy, Matplotlib, re, sys, os, random, __main__, sklearn
+-Python modules: Numpy, Matplotlib, re, sys, os, random, sklearn
 
 -Tools: PSAIA, PSI-BLAST
 
@@ -40,4 +40,4 @@ You can extract the features described in our paper.
 
 * Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
 
-* We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1).
+__We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1).__
