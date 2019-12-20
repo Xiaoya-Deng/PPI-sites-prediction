@@ -36,8 +36,8 @@ You can extract the features described in our paper.
 	
 2. The training and testing is pretty simple. Just follow the following steps:
 
-a. Put feature files of each complex in a fold. 
+* Put feature files of each complex in a fold. 
 
-b. Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
+* Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
 
-*We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1).
+* We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1).
