@@ -38,6 +38,8 @@ You can extract the features described in our paper.
 
 * Put feature files of each complex in a fold. 
 
-* Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
+* Run leave_one_complex.py, then you can get AUC of each complex by using leave-one-complex-out validation.
+
+* Run kfold.py, then you can get the result of 5-fold cross-validation.
 
 _We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1)._
