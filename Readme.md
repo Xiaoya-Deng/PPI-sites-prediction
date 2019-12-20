@@ -14,21 +14,21 @@ Protein-protein interaction (PPI) sites plays a key role in the formation of pro
 Usage
 -----
 
-DEPENDENCIES***
+__DEPENDENCIES__
 
 Our tools depends upon the following:
 
--Python 3.5
+* Python 3.5
 
--Tensorflow 1.10.0
+* Tensorflow 1.10.0
 
--Python modules: Numpy, Matplotlib, re, sys, os, random, sklearn
+* Python modules: Numpy, Matplotlib, re, sys, os, random, sklearn
 
--Tools: PSAIA, PSI-BLAST
+* Tools: PSAIA, PSI-BLAST
 
 Please install these dependencies before using our tools. 
 
-USAGE***
+__USAGE__
 
 1. Feature Extraction:
 
