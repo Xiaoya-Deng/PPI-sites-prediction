@@ -40,4 +40,4 @@ You can extract the features described in our paper.
 
 * Run leave_one_complex.py, then you can get AUC of each complex by using leave one complex validation. 
 
-__We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1).__
+_We tested our model on 8  Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz and NVIDIA Corporation GP102 [TITAN Xp] (rev a1)._
