@@ -9,7 +9,7 @@ Chongqing Key Laboratory of Big Data for Bio Intelligence, Chongqing University 
 
 Description
 -----------
-Protein-protein interaction (PPI) sites plays a key role in the formation of protein complex which is the basis of a variety of biological process. Experimental methods to solve PPI sites are expensive and time-consuming, which leads to the development of different kinds of prediction algorithms. We proposed a convolutional neural network for PPI sites prediction and used residue binding propensity to improve the positive samples. Our method obtains a remarkable result of AUC=0.912 on the improved data set. Comparison of the result of samples with high propensity to that of randomly selected samples suggests that there are considerable false positive PPI sites in the positive samples defined by distance between residue atoms.
+Protein-protein interaction (PPI) sites play a key role in the formation of protein complex which is the basis of a variety of biological processes. Experimental methods to solve PPI sites are expensive and time-consuming, which leads to the development of different kinds of prediction algorithms. We propose a convolutional neural network for PPI sites prediction and use residue binding propensity to improve the positive samples. Our method obtains a remarkable result of the area under curve (AUC)=0.912 on the improved data set. In addition, it yields much better results on samples with high binding propensity than on randomly selected samples. This suggests that there are considerable false positive PPI sites in the positive samples defined by distance between residue atoms.
 
 Usage
 -----
