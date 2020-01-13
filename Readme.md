@@ -14,7 +14,8 @@ Protein-protein interaction (PPI) sites play a key role in the formation of prot
 Usage
 -----
 
-If you publish pictures or models using our software please cite the following paper: Xie, Z.; Deng, X.; Shu, K. Prediction of Protein–Protein Interaction Sites Using Convolutional Neural Network and Improved Data Sets. Int. J. Mol. Sci. 2020, 21, 467.
+If you publish pictures or models using our software please cite the following paper: 
+__Xie, Z.; Deng, X.; Shu, K. Prediction of Protein–Protein Interaction Sites Using Convolutional Neural Network and Improved Data Sets. Int. J. Mol. Sci. 2020, 21, 467.__
 
 __DEPENDENCIES__
 
